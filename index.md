@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome MyBrowser
 
-You can use the [editor on GitHub](https://github.com/Samuel095383/Browser/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MyBrowser is a browser maked whith visual studio basic using .NETFramework,Version=v4.7.2 and the normal tool's of visual studio
+the progect whas maked usic visual basic.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+LICENSE
 
-### Markdown
+the license was the [open sorce license](https://it.wikipedia.org/wiki/Licenza_open_source#Le_licenze) and [ GNU General Public License ](https://it.wikipedia.org/wiki/GNU_General_Public_License)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CODE
 
-```markdown
-Syntax highlighted code block
+To compile the program look this guide.
 
-# Header 1
-## Header 2
-### Header 3
+If do you want to use this program clone this repo put a link to my repo.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Samuel095383/Browser/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

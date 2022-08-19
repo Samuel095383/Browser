@@ -1,2 +1,2 @@
 # Browser
-browser like InternetExplorer
+The browser like InternetExplorer
